@@ -71,7 +71,7 @@ hscode
 
 # 
 
-# In practice, \*\*LLM is not always required\*\*.
+# In practice, LLM is not always required.
 
 # 
 
@@ -251,7 +251,7 @@ hscode
 
 # 
 
-# \*\*Good retrieval often matters more than complex generation.\*\*
+# Good retrieval often matters more than complex generation.
 
 # 
 
